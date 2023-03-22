@@ -112,4 +112,24 @@ That should install all the necessary dependencies, but if you have any problems
 
 Celia Garcia Castilla https://github.com/CeliaGC/Celia_Garcia
 
-I wish you a happy user experience
+Here you are a few links to beautiful images as a suggestion to begin your user experience
+
+
+
+![64899271_303.jpg](https://static.dw.com/image/64899271_303.jpg)
+
+
+
+![64899271_303.jpg](https://blog.soin-et-nature.com/app/uploads/2021/08/Ginkgo-biloba.jpg)
+
+
+
+![Blog-Image-50-750x536.jpg](https://d20x1nptavktw0.cloudfront.net/wordpress_media/2022/03/Blog-Image-50-750x536.jpg)
+
+
+
+![olibes_180604-1.jpg](https://media.istockphoto.com/id/1271344172/es/foto/grupo-de-ni%C3%B1os-divirti%C3%A9ndose-jugando-al-hopscotch-en-la-calle.jpg?s=612x612&w=0&k=20&c=uP5BNwVg1ldyzTUJ0bFODSks89ygf8uqHr88j6m7l1s=)
+
+
+
+Enjoy!
