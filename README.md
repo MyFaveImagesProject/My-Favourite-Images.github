@@ -82,8 +82,11 @@ Packages should be installed automatically when cloning the repository, but in c
 - Microsoft.NET.Test.Sdk 17.5.0 (In ProjectTest project)
 - MSTest.TestAdapter 3.0.2 (In ProjectTest project)
 - MSTest.TestFramework 3.0.2 (In Proyectest project)
--Add new connection in Server Explorer
+
+-Add new connection in Server Explorer. Check its properties and copy-paste the "data connetion" string in its place in the file "appsettings.json"
+
 -Open Microsoft SQL Server Management Studio and connect to the server.
+
 In Microsoft Visual Studio Code, to connect to the database, run in Package Nuget Console the commands:
 - add-migration Initial -Project Data
 - update-database
